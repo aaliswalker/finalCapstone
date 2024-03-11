@@ -9,7 +9,7 @@ This project performs sentiment analysis on Amazon product reviews using Natural
 - `pandas`
 - `textblob`
 
-Download the dataset `amazon_product_reviews.csv` and place it in the project directory.
+Download the dataset `amazon_product_reviews.csv` from kaggle and place it in the project directory.
 
 ## Usage
 ### 1. Loading and Cleaning Data
